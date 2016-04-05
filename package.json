@@ -1,0 +1,28 @@
+{
+  "name": "diet-dericko",
+  "version": "1.0.0",
+  "description": "\"# diet-dericko\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeilRandor/diet-dericko.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeilRandor/diet-dericko/issues"
+  },
+  "homepage": "https://github.com/KeilRandor/diet-dericko#readme",
+  "dependencies": {
+    "async": "^2.0.0-rc.2",
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "lodash": "^4.7.0",
+    "mongoose": "^4.4.11",
+    "request": "^2.69.0"
+  }
+}
